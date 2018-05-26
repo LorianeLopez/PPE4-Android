@@ -24,7 +24,8 @@ public class MenuAccueil extends AppCompatActivity implements View.OnTouchListen
         public static String livres;
         public static int nbSagas;
 //        final public static String ip = "http://10.0.230.66:86/";
-        final public static String ip = "http://192.168.1.62:86/";
+//        final public static String ip = "http://192.168.1.62:86/";
+        final public static String ip = "http://act1lopez.cnadal.fr/";
     }
 
 
